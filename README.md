@@ -2,9 +2,9 @@
 
 ## Scope
 
-Powerful means having the ability to control or influence people or things. We all have a powerfull person around us it can anyone, a mom, a friend and sommetimes a celebrity that we love and admirre.
+Powerful means having the ability to control or influence people or things. We all have a powerfull person that help us navugate through life and is usually a role model. It can be a mom,a dad, a friend and sometimes a celebrity that we love and admire.
 I am interested in how powerful women talk and what languages they use to share their ideas through twitter? 
-Is there a pattern? Are they using the same words or close?
+Is there a pattern? Are they using the same words or close? What is special about these women communication?
 
 
 ## Methology
