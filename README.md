@@ -4,7 +4,7 @@
 
 Powerful means having the ability to control or influence people or things. We all have a person that we love and admire that empower us. This person can be a mom, a dad, a friend and sometimes a celebrity.
 In this project, I am interested in how powerful women communicate through Twitter, what are the common words they use, what topics they are interested in? Are these topics similar? What it is special about these women communication?
-I will also build a FlaskWeb app that will help any "non powerful" individual aka someone like me get a recommendated set of words to use in a sentence to sound like a Michelle Obama or a Melinda Gates.
+I will also build a FlaskWeb app that will help any "non powerful" individual aka someone like me get a recommended set of words to use in a sentence to sound like a Michelle Obama or a Melinda Gates.
 
 
 ## Methology
